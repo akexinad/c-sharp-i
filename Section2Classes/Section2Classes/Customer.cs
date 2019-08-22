@@ -26,6 +26,12 @@ namespace Section2Classes
         * 
         * - NOTE that you would only use a constructor if you really want to initialize your class with an early state that is essential for the class to perform.
         * - See the order class below.
+        * 
+        * 
+        * - In this section we learnt about:
+        *       - Parameterless Constructors
+        *       - Overloading Constructors
+        *       - How we can use the `this` keyword to pass on the execution to other constructors.
         */
 
         public int Id;
