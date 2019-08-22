@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cecd304\\.nuget\\packages\\": {},
+    "C:\\Users\\danny\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\Section2Classes.csproj",
+      "projectUniqueName": "D:\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\Section2Classes.csproj",
       "projectName": "Section2Classes",
-      "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\Section2Classes.csproj",
-      "packagesPath": "C:\\Users\\cecd304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\obj\\",
+      "projectPath": "D:\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\Section2Classes.csproj",
+      "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\udemy\\mosh\\c-sharp-i\\Section2Classes\\Section2Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cecd304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

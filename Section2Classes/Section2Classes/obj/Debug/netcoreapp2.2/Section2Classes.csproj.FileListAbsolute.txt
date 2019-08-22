@@ -9,3 +9,14 @@ C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\ob
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.AssemblyInfo.cs
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.dll
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.pdb
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\bin\Debug\netcoreapp2.2\Section2Classes.deps.json
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\bin\Debug\netcoreapp2.2\Section2Classes.runtimeconfig.json
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\bin\Debug\netcoreapp2.2\Section2Classes.runtimeconfig.dev.json
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\bin\Debug\netcoreapp2.2\Section2Classes.dll
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\bin\Debug\netcoreapp2.2\Section2Classes.pdb
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.csprojAssemblyReference.cache
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.csproj.CoreCompileInputs.cache
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.AssemblyInfoInputs.cache
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.AssemblyInfo.cs
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.dll
+D:\code\udemy\mosh\c-sharp-i\Section2Classes\Section2Classes\obj\Debug\netcoreapp2.2\Section2Classes.pdb
