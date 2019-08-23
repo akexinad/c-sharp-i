@@ -45,6 +45,12 @@ namespace Section2Classes
             privatePerson.SetBirthdate(new DateTime(1990, 4, 4));
             Console.WriteLine(privatePerson.GetBirthdate());
 
+            var me = new AccessModifiers.Man(new DateTime(1990, 4, 4));
+            Console.WriteLine(me.Age);
+            
+
+
+
 
         }
 

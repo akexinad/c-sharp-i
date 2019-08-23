@@ -19,7 +19,7 @@ namespace Section2Classes
          * - In practice, this is done by defining your fields as private,
          * - and providing your getter and setter fields as public.
          * 
-         * - When declaring properties, the convention is to declare them in camelCase, prefixed with an underscore.
+         * - When declaring fields, the convention is to declare them in camelCase, prefixed with an underscore.
          * 
          * 
          * IMPORTANT NOTE ON OBJECTS AND OOP
@@ -27,6 +27,16 @@ namespace Section2Classes
          * - Remember that objects are about behaviour.
          * - An object's fields are its internals, it's implementation details, which should be hidden away from the outside world.
          * - In essence, OBJECTS SHOULD HIDE THEIR IMPLEMENTATION DETAIL AND ONLY REVEAL THEIR BEHAVIOUR.
+         * - YOUR CLASSES SHOULD ALWAYS BE IN A VALID STATE.
+         * 
+         * 
+         * PROPERTIES
+         * 
+         * - A property is a class member that encapsulates a getter/setter for accessing a field.
+         * - What is the main purpose of a property?
+         *      - To create a getter/seter with less code.
+         * - 
+         * - 
          * 
          */
 
@@ -34,7 +44,7 @@ namespace Section2Classes
         {
             private DateTime _birthdate;
 
-            // If a property is private and you need to set and access it, you will need to create public methods.
+            // If a field is private and you need to set and access it, you will need to create public methods.
 
             public void SetBirthdate(DateTime birthdate)
             {
@@ -45,10 +55,35 @@ namespace Section2Classes
             {
                 return _birthdate;
             }
-
-
         }
 
-    }
+        public class Man
+        {
 
+            // PROPERTIES FIRST
+            // THEN THE CONSTRUCTOR
+            // AND THEN CALCULATED PROPERTIES/PROPERTIES THAT HAVE LOGIC.
+
+            // With this expression, .NET will create the private field as well the getters and setters for us.
+            // If we make the setter private, then the only way to set the properties is via the constructor.
+            public DateTime BirthDate { get; private set; }
+            public string Username { get; set; }
+            public string Name { get; set; }
+
+            public Man(DateTime birthdate)
+            {
+                BirthDate = birthdate;
+            }
+
+            public int Age
+            {
+                get
+                {
+                    var timeSpan = DateTime.Today - BirthDate;
+                    var years = timeSpan.Days / 365;
+                    return years;
+                }
+            }
+        }
+    }
 }
