@@ -2,7 +2,7 @@
 
 namespace Section2Classes
 {
-    class AccessModifiers
+    namespace AccessModifiers
     {
         /*
          * - An access modifier is a way to control access to a class and/or its members.

@@ -2,7 +2,7 @@
 
 namespace Section2Classes
 {
-    public class Fields
+    namespace Fields
     {
 
         /*

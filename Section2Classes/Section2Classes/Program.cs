@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Section2Classes.Indexers;
+using Section2Classes.Fields;
+using System;
 
 namespace Section2Classes
 {
@@ -30,16 +32,15 @@ namespace Section2Classes
 
 
 
-            var customer = new Fields.Customer(44);
-            customer.Orders.Add(new Fields.Customer.Order());
-            customer.Orders.Add(new Fields.Customer.Order());
-            customer.Orders.Add(new Fields.Customer.Order());
+            Customer customer = new Customer(44);
+            customer.Orders.Add(new Customer.Order());
+            customer.Orders.Add(new Customer.Order());
+            customer.Orders.Add(new Customer.Order());
 
             customer.Promote();
 
             Console.WriteLine(customer.Orders.Count);
 
-            Console.Clear();
 
             var privatePerson = new AccessModifiers.Person();
             privatePerson.SetBirthdate(new DateTime(1990, 4, 4));
@@ -47,9 +48,13 @@ namespace Section2Classes
 
             var me = new AccessModifiers.Man(new DateTime(1990, 4, 4));
             Console.WriteLine(me.Age);
-            
 
+            Console.Clear();
 
+            // INDEXERS
+            var cookie = new HttpCookie();
+            cookie["name"] = "fellini";
+            Console.WriteLine(cookie["name"]);
 
 
         }
