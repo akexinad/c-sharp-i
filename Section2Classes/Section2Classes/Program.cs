@@ -5,13 +5,6 @@ namespace Section2Classes
     partial class Program
     {
 
-        /*
-         * FIELDS
-         * ======
-         * 
-         * 
-         * 
-         */
         static void Main(string[] args)
         {
             var person = new Person()
@@ -36,7 +29,6 @@ namespace Section2Classes
             UseParamsCalculator();
 
 
-            Console.Clear();
 
             var customer = new Fields.Customer(44);
             customer.Orders.Add(new Fields.Customer.Order());
@@ -47,6 +39,11 @@ namespace Section2Classes
 
             Console.WriteLine(customer.Orders.Count);
 
+            Console.Clear();
+
+            var privatePerson = new AccessModifiers.Person();
+            privatePerson.SetBirthdate(new DateTime(1990, 4, 4));
+            Console.WriteLine(privatePerson.GetBirthdate());
 
 
         }
