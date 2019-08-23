@@ -1,6 +1,7 @@
 ﻿using Section2Classes.Indexers;
 using Section2Classes.Fields;
 using System;
+using Section2Classes.Exercises;
 
 namespace Section2Classes
 {
@@ -49,12 +50,22 @@ namespace Section2Classes
             var me = new AccessModifiers.Man(new DateTime(1990, 4, 4));
             Console.WriteLine(me.Age);
 
-            Console.Clear();
 
             // INDEXERS
             var cookie = new HttpCookie();
             cookie["name"] = "fellini";
             Console.WriteLine(cookie["name"]);
+
+            Console.Clear();
+
+            var stopWatch = new StopWatch();
+            stopWatch.Start();
+            stopWatch.Start();
+
+            stopWatch.Stop();
+
+            Console.WriteLine(stopWatch.Duration); 
+
 
 
         }
@@ -89,7 +100,6 @@ namespace Section2Classes
 
             // You can also call a new array, but there is no need to.
             Console.WriteLine(calculator.Add(new int[] { 1, 2, 3 }));
-
         }
     }
 }
