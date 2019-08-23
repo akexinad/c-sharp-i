@@ -4,6 +4,14 @@ namespace Section2Classes
 {
     partial class Program
     {
+
+        /*
+         * FIELDS
+         * ======
+         * 
+         * 
+         * 
+         */
         static void Main(string[] args)
         {
             var person = new Person()
@@ -17,16 +25,30 @@ namespace Section2Classes
             p.Introduce("Luca");
 
 
-            var customer = new Customer();
+            //var customer = new Customer();
 
-            var order = new Order();
-            customer.Orders.Add(order);
+            //var order = new Order();
+            //customer.Orders.Add(order);
 
-            Console.Clear();
 
             //UseOverloadsPoints();
 
             UseParamsCalculator();
+
+
+            Console.Clear();
+
+            var customer = new Fields.Customer(44);
+            customer.Orders.Add(new Fields.Customer.Order());
+            customer.Orders.Add(new Fields.Customer.Order());
+            customer.Orders.Add(new Fields.Customer.Order());
+
+            customer.Promote();
+
+            Console.WriteLine(customer.Orders.Count);
+
+
+
         }
 
         static void UseOverloadsPoints()
