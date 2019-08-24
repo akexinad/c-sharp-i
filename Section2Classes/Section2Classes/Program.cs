@@ -2,6 +2,7 @@
 using Section2Classes.Fields;
 using System;
 using Section2Classes.Exercises;
+using System.Threading.Tasks;
 
 namespace Section2Classes
 {
@@ -58,14 +59,46 @@ namespace Section2Classes
 
             Console.Clear();
 
+            // EXERCISES
+
+            Console.WriteLine("Hello");
+
             var stopWatch = new StopWatch();
             stopWatch.Start();
-            stopWatch.Start();
 
-            stopWatch.Stop();
+            Task.Run(async () =>
+            {
+                await Task.Delay(2000);
 
-            Console.WriteLine(stopWatch.Duration); 
+                stopWatch.Stop();
 
+                Console.WriteLine(stopWatch.Duration);
+            });
+
+
+
+
+            var post = new Post();
+
+            post.AddPost
+                (
+                    "Hello world",
+                    "This is my first post"
+                );
+
+            post.GiveLike();
+            post.GiveLike();
+            post.GiveLike();
+            post.GiveLike();
+
+            Console.WriteLine(post.Like);
+            Console.WriteLine(post.Likes());
+
+            post.DisLike();
+            Console.WriteLine(post.Likes());
+
+            //Console.WriteLine(post.Details());
+            Console.WriteLine(post.Test());
 
 
         }

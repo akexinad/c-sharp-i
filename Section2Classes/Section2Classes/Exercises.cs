@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Section2Classes
 {
@@ -24,15 +25,20 @@ namespace Section2Classes
             */
 
             private bool IsRunning = false;
-            private DateTime Started { get; set; }
-            private DateTime Stopped { get; set; }
+
+            public DateTime StartTime { get; set; }
+            public DateTime StopTime { get; set; }
+
             public double Duration
             {
                 get
                 {
-                    var timeSpan = Stopped - Started;
-                    var seconds = timeSpan.TotalSeconds;
-                    return seconds;
+                    if (IsRunning == true)
+                    {
+                        throw new Exception("StopWatch is still running.");
+                    }
+                    TimeSpan timeSpan = StopTime - StartTime;
+                    return timeSpan.TotalSeconds;
                 }
             }
 
@@ -41,22 +47,20 @@ namespace Section2Classes
                 if (IsRunning == true)
                 {
                     throw new Exception("StopWatch is already running.");
+
                 }
-                else
-                {
-                    Started = DateTime.Now;
-                    IsRunning = true;
-                }
+                IsRunning = true;
+                StartTime = DateTime.Now;
             }
 
             public void Stop()
             {
-                Stopped = DateTime.Now;
                 IsRunning = false;
+                StopTime = DateTime.Now;
             }
         }
 
-        public class SOF
+        public class Post
         {
             /*
              * Design a class called Post. This class models a StackOverflow post. It should have properties
@@ -74,9 +78,84 @@ namespace Section2Classes
                 experience) tend to create classes that are purely data containers, and other classes that are
                 purely behaviour (methods) providers. This is not object-oriented programming. This is
                 procedural programming. Such programs are very fragile. Making a change breaks many parts
-                of the code.
+                of the code. 
              */
 
+
+            // REMEMBER THAT...
+            private string _foo;
+            public void SetFoo(string foo)
+            {
+                this._foo = foo;
+            }
+            public string GetFoo()
+            {
+                return _foo;
+            }
+
+            // IS THE SAME AS...
+            public string Foo { get; set; }
+            // The private field and the getters and setters are automatically implemented.
+
+
+            private readonly Dictionary<string, string> _post;
+            public string Title { get; set; }
+            public string Description { get; set; }
+
+            public DateTime CreatedAt { get; set; }
+            public int Like { get; set; } = 0;
+
+            public Post()
+            {
+                CreatedAt = DateTime.Now;
+                _post = new Dictionary<string, string>();
+            }
+
+            public string this[string key]
+            {
+                get { return _post[key]; }
+                set { _post[key] = value; }
+            }
+
+            public void AddPost(string Title, string Description)
+            {
+                _post.Add(Title, Description);
+            }
+
+            public void GiveLike()
+            {
+                Like++;
+                this["Likes"] = $"This post has { Like } likes.";
+            }
+
+            public void DisLike()
+            {
+                if (Like == 0)
+                {
+                    Like = 0;
+                }
+                else
+                {
+                    Like--;
+                }
+            }
+
+            public string Likes()
+            {
+                return this["Likes"] = $"This post has { Like } likes.";
+            }
+
+            public string Details()
+            {
+
+                return $"Created: { CreatedAt.ToShortDateString() }\nTitle: { Title }\nDescription: { Description }\nLikes: { this.Like }";
+            }
+
+            public string Test()
+            {
+                var values = _post.Values;
+                return values.ToString();
+            }
 
         }
     }

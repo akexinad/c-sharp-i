@@ -64,7 +64,7 @@ namespace Section2Classes
             // THEN THE CONSTRUCTOR
             // AND THEN CALCULATED PROPERTIES/PROPERTIES THAT HAVE LOGIC.
 
-            // With this expression, .NET will create the private field as well the getters and setters for us.
+            // With this expression, .NET will create the private field as well as the getters and setters for us.
             // If we make the setter private, then the only way to set the properties is via the constructor.
             public DateTime BirthDate { get; private set; }
             public string Username { get; set; }

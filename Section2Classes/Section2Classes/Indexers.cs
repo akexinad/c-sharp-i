@@ -32,7 +32,7 @@ namespace Section2Classes
             }
 
             // THIS IS THE INDEXER.
-            // Declarng an indexer is like declaring a property.
+            // Declaring an indexer is like declaring a property.
             // The indexer does not have a name. It uses the 'this' keyword.
             public string this[string key]
             {
