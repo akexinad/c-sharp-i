@@ -1,0 +1,11 @@
+D:\code\udemy\mosh\c_sharp_i\Section3Association\bin\Debug\netcoreapp2.2\Section3Association.deps.json
+D:\code\udemy\mosh\c_sharp_i\Section3Association\bin\Debug\netcoreapp2.2\Section3Association.runtimeconfig.json
+D:\code\udemy\mosh\c_sharp_i\Section3Association\bin\Debug\netcoreapp2.2\Section3Association.runtimeconfig.dev.json
+D:\code\udemy\mosh\c_sharp_i\Section3Association\bin\Debug\netcoreapp2.2\Section3Association.dll
+D:\code\udemy\mosh\c_sharp_i\Section3Association\bin\Debug\netcoreapp2.2\Section3Association.pdb
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.csprojAssemblyReference.cache
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.csproj.CoreCompileInputs.cache
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.AssemblyInfoInputs.cache
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.AssemblyInfo.cs
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.dll
+D:\code\udemy\mosh\c_sharp_i\Section3Association\obj\Debug\netcoreapp2.2\Section3Association.pdb
