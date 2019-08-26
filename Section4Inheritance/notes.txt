@@ -33,3 +33,13 @@ LIST OF VARIOUS ACCESS MODIFIERS
 - PROTECTED INTERNAL
 	- Accessible only from derived classes, in the same assembly.
 	- This one is just weird.
+
+
+
+
+CONSTRUCTOR INHERITANCE
+=======================
+
+- Base class constructors are always executed first.
+- Base class constructors are not inherited.
+	- Which means you need to redefine your constructors in derived classes.

@@ -1,5 +1,5 @@
 ﻿using Section4Inheritance.AccessModifers;
-using System;
+using Section4Inheritance.Constructors;
 
 namespace Section4Inheritance
 {
@@ -7,7 +7,9 @@ namespace Section4Inheritance
     {
         static void Main(string[] args)
         {
-            var customer = new Customer();
+            var ferrari = new Car("aks-03t");
+
+
         }
     }
 }
