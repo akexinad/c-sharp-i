@@ -1,0 +1,17 @@
+﻿
+
+FAVOUR COMPOSITION OVER INHERITANCE
+===================================
+
+
+ 
+- As software engineers, we need to think about how we can minimize the impact of future changes in our software.
+- We need to pay attention to not only the abstract concept in question, but also the properties that might belong to that said concept.
+	- That is, the properties of certain concepts might have to become their own objects instead of being the property of a concecptual class.
+		Ex: You can a Dog and Person class that inherits from the Animal class which has a method called Walkable.
+			But what if you add a Fish Class?
+			In this instance it would make sense to favour composition over inheritance, and have a separate Walkable class for the Dog and Person class,
+				and a Swimmable class for the Fish class.
+			And then, when you introduce the Duck class, which can walk and swim, your code strcuture has the flexibility to accept this novel concept.
+- COMPOSITION provides great flexibility, as well as LOOSE COUPLING.
+
