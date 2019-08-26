@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Section4Inheritance.AccessModifers;
+using System;
 
 namespace Section4Inheritance
 {
@@ -6,7 +7,7 @@ namespace Section4Inheritance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var customer = new Customer();
         }
     }
 }

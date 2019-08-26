@@ -1,0 +1,35 @@
+﻿
+ACCESS MODIFIERS
+================
+
+THE BLACK BOX METAPHOR
+
+- Ideally, we would like our objects to behave a little like a black box.
+- From the outside there is little visibility and understanding from what is happening,
+	and it seems like there is a lot of magic happening.
+- In essence, the less that is exposed, the more isolated you can make the object.
+- WHAT WE SEE FROM THE OUTSIDE IS THE PUBLIC INTERFACE
+
+
+LIST OF VARIOUS ACCESS MODIFIERS
+
+- PUBLIC
+	- All members are accessible from everywhere.
+
+- PRIVATE
+	- Members are only accessible from its respective class.
+	- IMPLEMENTATION DETAILS DO NOT MAKE PART OF THE PUBLIC INTERFACE, AND THERFORE SHOULD BE DECLARED PRIVATE.
+
+- PROTECTED
+	- These members are available only from its own class AND ITS DERIVED MEMBERS.
+	- Again, if the member makes part of the implementation detail, but you need to utilise it in derived classes,
+		you would use the protected access modifier.
+		- NOTE that you are revealing the implementation detail of a class by doing so, and thus breaking the rule
+			of encapsulation. Use this access modifier if absolutely necessary.
+
+- INTERNAL
+	- Accessible only from the same assembly.
+
+- PROTECTED INTERNAL
+	- Accessible only from derived classes, in the same assembly.
+	- This one is just weird.
