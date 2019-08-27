@@ -52,3 +52,6 @@ UPCASTING / DOWNCASTING
 
 - Upcasting is the conversion of a derived class to a base class.
 - Downcasting is the conversion of a base class to a derived class.
+
+- UpCasting is implicit, so we can declare the object to take the form of its base class reference.
+- DownCasting needs to be done explicitly, or you may have to use the "as" keyword to check for possible null state.
