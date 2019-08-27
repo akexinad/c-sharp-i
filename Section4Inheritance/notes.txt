@@ -43,3 +43,12 @@ CONSTRUCTOR INHERITANCE
 - Base class constructors are always executed first.
 - Base class constructors are not inherited.
 	- Which means you need to redefine your constructors in derived classes.
+
+
+
+
+UPCASTING / DOWNCASTING
+=======================
+
+- Upcasting is the conversion of a derived class to a base class.
+- Downcasting is the conversion of a base class to a derived class.
