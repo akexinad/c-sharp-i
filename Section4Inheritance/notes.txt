@@ -55,3 +55,46 @@ UPCASTING / DOWNCASTING
 
 - UpCasting is implicit, so we can declare the object to take the form of its base class reference.
 - DownCasting needs to be done explicitly, or you may have to use the "as" keyword to check for possible null state.
+
+
+
+
+BOXING / UNBOXING
+=================
+
+- First lets get into some basics:
+
+
+THE VALUE TYPE AND THE STACK
+
+- Value types are stored on the STACK.
+- When the program is executed, a limited amount of space is allocated to each thread of your program.
+- Value types stored on the stack have a short lifetime, which means as soon as go out of the scope,
+	they immediately get kicked off the stack, by the runtime.
+
+
+THE REFERENCE TYPE AND THE HEAP
+
+- Reference types are stored in the heap, which is a larger amount of memory.
+- We use the HEAP to store the objects that require a longer lifetime.
+
+
+BOXING
+
+- The process of converting a value type instance to an object reference.
+	Ex. int number = 10;
+		object obj = number OR object obj = 10;
+
+- So behind the scenes, the value - 10 in this instance - gets BOXED by the CLR and is then stored in the HEAP instead of the STACK.
+
+
+UNBOXING
+
+- Is the opposite of boxing. The value is first boxed and stored in the HEAP, then when it is casted to an value type, it gets stored in the STACK.
+	Ex. object obj = 10;
+		int number = (int)obj;
+
+
+WHY IS THIS IMPORTANT
+
+- Boxing and unboxing have a performance penalty, and thus it should be avoided if possible.
