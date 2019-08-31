@@ -56,8 +56,24 @@ namespace Section4Inheritance
             // To cast it during compile time, we need to cast it.
             // Now we have access to the Text object properties.
             Text text2 = (Text)shape2;
-            
 
+
+
+
+
+            // EXERCISE ONE
+            // ============
+
+            var stack = new Stack();
+
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+
+
+            Console.WriteLine(stack.Pop());
+            Console.WriteLine(stack.Pop());
+            Console.WriteLine(stack.Pop());
         }
     }
 }

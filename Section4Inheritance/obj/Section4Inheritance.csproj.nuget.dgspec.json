@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section4Inheritance\\Section4Inheritance.csproj": {}
+    "D:\\code\\udemy\\mosh\\c_sharp_i\\Section4Inheritance\\Section4Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section4Inheritance\\Section4Inheritance.csproj": {
+    "D:\\code\\udemy\\mosh\\c_sharp_i\\Section4Inheritance\\Section4Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section4Inheritance\\Section4Inheritance.csproj",
+        "projectUniqueName": "D:\\code\\udemy\\mosh\\c_sharp_i\\Section4Inheritance\\Section4Inheritance.csproj",
         "projectName": "Section4Inheritance",
-        "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section4Inheritance\\Section4Inheritance.csproj",
-        "packagesPath": "C:\\Users\\cecd304\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section4Inheritance\\obj\\",
+        "projectPath": "D:\\code\\udemy\\mosh\\c_sharp_i\\Section4Inheritance\\Section4Inheritance.csproj",
+        "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\udemy\\mosh\\c_sharp_i\\Section4Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\cecd304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

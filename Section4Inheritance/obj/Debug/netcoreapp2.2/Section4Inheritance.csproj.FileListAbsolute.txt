@@ -9,3 +9,14 @@ C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section4Inheritance\obj\Debug\netc
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.AssemblyInfo.cs
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.dll
 C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.pdb
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\bin\Debug\netcoreapp2.2\Section4Inheritance.deps.json
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\bin\Debug\netcoreapp2.2\Section4Inheritance.runtimeconfig.json
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\bin\Debug\netcoreapp2.2\Section4Inheritance.runtimeconfig.dev.json
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\bin\Debug\netcoreapp2.2\Section4Inheritance.dll
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\bin\Debug\netcoreapp2.2\Section4Inheritance.pdb
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.csprojAssemblyReference.cache
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.csproj.CoreCompileInputs.cache
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.AssemblyInfoInputs.cache
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.AssemblyInfo.cs
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.dll
+D:\code\udemy\mosh\c_sharp_i\Section4Inheritance\obj\Debug\netcoreapp2.2\Section4Inheritance.pdb
