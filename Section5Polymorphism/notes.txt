@@ -1,0 +1,6 @@
+﻿METHOD OVERRIDING
+=================
+
+- Method Overriding is modifying the implementation of an inherited method.
+- Method Overriding enforces the principle of ENCAPSULATION as well as LOOSE COUPLING. By being able to override the logic of methods that share the same method from the same parent class
+	we are able to keep or methods skinny and we do not have to write multiple lines of conditional logic to tell C# what logic to execute for a respective object.

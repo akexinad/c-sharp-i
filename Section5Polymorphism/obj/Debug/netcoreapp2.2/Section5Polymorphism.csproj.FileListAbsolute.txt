@@ -1,0 +1,11 @@
+C:\Users\danny\source\repos\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.deps.json
+C:\Users\danny\source\repos\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.runtimeconfig.json
+C:\Users\danny\source\repos\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.runtimeconfig.dev.json
+C:\Users\danny\source\repos\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.dll
+C:\Users\danny\source\repos\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.pdb
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.AssemblyInfo.cs
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.dll
+C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.pdb
