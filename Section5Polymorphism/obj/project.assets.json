@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danny\\.nuget\\packages\\": {},
+    "C:\\Users\\cecd304\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danny\\source\\repos\\Section5Polymorphism\\Section5Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section5Polymorphism\\Section5Polymorphism.csproj",
       "projectName": "Section5Polymorphism",
-      "projectPath": "C:\\Users\\danny\\source\\repos\\Section5Polymorphism\\Section5Polymorphism.csproj",
-      "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danny\\source\\repos\\Section5Polymorphism\\obj\\",
+      "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section5Polymorphism\\Section5Polymorphism.csproj",
+      "packagesPath": "C:\\Users\\cecd304\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section5Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cecd304\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

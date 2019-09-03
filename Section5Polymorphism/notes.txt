@@ -4,3 +4,30 @@
 - Method Overriding is modifying the implementation of an inherited method.
 - Method Overriding enforces the principle of ENCAPSULATION as well as LOOSE COUPLING. By being able to override the logic of methods that share the same method from the same parent class
 	we are able to keep or methods skinny and we do not have to write multiple lines of conditional logic to tell C# what logic to execute for a respective object.
+
+
+
+
+ABSTRACT CLASSES AND MEMBERS
+============================
+
+
+THE ABSTRACT MODIFIER
+
+- Indicates that a class or a member is missing implementation.
+- To go back to the Shape example, we know what a circle and rectangle looks like, but we don't know what the concept of the shape physically looks like.
+	If we don't know what it looks like, we can't implement it. If we can't implement it means that it is abstract.
+
+
+RULES FOR ABSTRACT MEMBERS
+
+1. An abstract member cannot include implementation.
+2. If a member is declared as abstract, the contaning class needs to be declared as abstract too.
+3. DERIVED CLASSES must implement all abstract members in the base abstract class.
+4. Abstract classes cannot be instantiated.
+
+
+WHY USE ABSTRACT?
+
+- When you want to provide some common behaviour, while forcing other developers to FOLLOW YOUR DESIGN.
+- The abstract class forces you to follow a particular implementation in order to ensure uniformity throughout the application.
