@@ -30,7 +30,7 @@ namespace Section5Polymorphism
             // EXERCISES
             // =========
 
-            var sqlConnection = new SqlConnection("hello");
+            var sqlConnection = new SqlConnection();
 
             sqlConnection.Open();
         }
