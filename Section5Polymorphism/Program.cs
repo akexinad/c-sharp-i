@@ -1,4 +1,6 @@
-﻿using Section5Polymorphism.MethodOverriding;
+﻿using Section5Polymorphism.AbstractClasses;
+using Section5Polymorphism.Exercises;
+using Section5Polymorphism.MethodOverriding;
 using System;
 using System.Collections.Generic;
 
@@ -20,6 +22,17 @@ namespace Section5Polymorphism
 
             canvas.DrawShapes(shapes);
 
+            var landCruiser = new FourWD();
+            landCruiser.Start();
+
+            Console.Clear();
+
+            // EXERCISES
+            // =========
+
+            var sqlConnection = new SqlConnection("hello");
+
+            sqlConnection.Open();
         }
     }
 }

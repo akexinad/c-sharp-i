@@ -31,3 +31,18 @@ WHY USE ABSTRACT?
 
 - When you want to provide some common behaviour, while forcing other developers to FOLLOW YOUR DESIGN.
 - The abstract class forces you to follow a particular implementation in order to ensure uniformity throughout the application.
+
+
+
+
+SEALED CLASSES AND MEMBERS
+==========================
+
+- Sealed classes are the opposite of abstract classes.
+
+
+SEALED MODIFIER
+
+- Will prevent the derivation of classes or overriding of methods.
+- Technically speaking, sealed classes are slightly faster because of some run-time optimizations.
+- TRY NOT TO USE SEALED, it can often ruin your inheritance structure.

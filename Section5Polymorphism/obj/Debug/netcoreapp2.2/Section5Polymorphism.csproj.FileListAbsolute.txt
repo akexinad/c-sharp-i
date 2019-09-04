@@ -9,3 +9,14 @@ C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section
 C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.AssemblyInfo.cs
 C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.dll
 C:\Users\danny\source\repos\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.deps.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.runtimeconfig.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.runtimeconfig.dev.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\bin\Debug\netcoreapp2.2\Section5Polymorphism.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.csprojAssemblyReference.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.AssemblyInfoInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.AssemblyInfo.cs
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section5Polymorphism\obj\Debug\netcoreapp2.2\Section5Polymorphism.pdb
