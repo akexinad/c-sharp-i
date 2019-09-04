@@ -30,9 +30,17 @@ namespace Section5Polymorphism
             // EXERCISES
             // =========
 
-            var sqlConnection = new SqlConnection();
+            //var sqlConnection = new SqlConnection("connection string");
+            var sqlConnection = new SqlConnection("hello world");
 
-            sqlConnection.Open();
+            //var dbCommands = new DbCommand(sqlConnection);
+            var dbCommands = new DbCommand(sqlConnection);
+            dbCommands.Execute();
+
+            var mongoDBCOmmand = new DbCommand(new MongoDBConnection("to mongo atlas"));
+
+            mongoDBCOmmand.Execute();
+
         }
     }
 }
