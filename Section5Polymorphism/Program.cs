@@ -37,10 +37,9 @@ namespace Section5Polymorphism
             var dbCommands = new DbCommand(sqlConnection);
             dbCommands.Execute();
 
-            var mongoDBCOmmand = new DbCommand(new MongoDBConnection("to mongo atlas"));
+            var mongoDBCommand = new DbCommand(new MongoDBConnection("to mongo atlas"));
 
-            mongoDBCOmmand.Execute();
-
+            mongoDBCommand.Execute();
         }
     }
 }
