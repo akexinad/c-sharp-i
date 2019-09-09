@@ -1,0 +1,14 @@
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Section6Interfaces.UnitTests.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Section6Interfaces.UnitTests.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\obj\Debug\Section6Interfaces.UnitTests.csprojAssemblyReference.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\obj\Debug\Section6Interfaces.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\obj\Debug\Section6Interfaces.UnitTests.csproj.CopyComplete
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\obj\Debug\Section6Interfaces.UnitTests.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces.UnitTests\obj\Debug\Section6Interfaces.UnitTests.pdb

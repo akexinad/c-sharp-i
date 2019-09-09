@@ -1,0 +1,18 @@
+﻿
+INTERFACES
+==========
+
+- Interfaces help us build loosely-coupled applications
+- Instead of having a class dependent on the functionality of another class,
+	you can make the class dependent on an interface, so if you change the logic
+	in the class in question, it doesn't significantly affect the class who relies
+	on the dependency in question.
+
+
+
+INTERFACES AND TESTABILITY
+==========================
+
+- AN INTERFINES DEFINES/MOULDS A THE MODEL/CLASS.
+- It tells you the class should contain from a purely abstract level.
+	- No implementation, no logic.

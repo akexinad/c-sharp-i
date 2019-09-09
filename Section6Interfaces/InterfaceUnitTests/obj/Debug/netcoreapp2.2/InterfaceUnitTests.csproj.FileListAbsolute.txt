@@ -1,0 +1,17 @@
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.csprojAssemblyReference.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.AssemblyInfoInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.AssemblyInfo.cs
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\InterfaceUnitTests.deps.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\InterfaceUnitTests.runtimeconfig.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\InterfaceUnitTests.runtimeconfig.dev.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\InterfaceUnitTests.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\InterfaceUnitTests.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\Section6Interfaces.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\bin\Debug\netcoreapp2.2\Section6Interfaces.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.csproj.CopyComplete
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\InterfaceUnitTests\obj\Debug\netcoreapp2.2\InterfaceUnitTests.pdb

@@ -1,0 +1,11 @@
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.csprojAssemblyReference.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.AssemblyInfoInputs.cache
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.AssemblyInfo.cs
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\bin\Debug\netcoreapp2.2\Section6Interfaces.deps.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\bin\Debug\netcoreapp2.2\Section6Interfaces.runtimeconfig.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\bin\Debug\netcoreapp2.2\Section6Interfaces.runtimeconfig.dev.json
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\bin\Debug\netcoreapp2.2\Section6Interfaces.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\bin\Debug\netcoreapp2.2\Section6Interfaces.pdb
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.dll
+C:\Users\cecd304\me\code\udemy\mosh\c-sharp-i\Section6Interfaces\Section6Interfaces\obj\Debug\netcoreapp2.2\Section6Interfaces.pdb

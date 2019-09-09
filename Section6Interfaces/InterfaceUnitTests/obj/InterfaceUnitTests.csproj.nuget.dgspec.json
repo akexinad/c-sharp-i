@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\InterfaceUnitTests\\InterfaceUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\InterfaceUnitTests\\InterfaceUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\InterfaceUnitTests\\InterfaceUnitTests.csproj",
+        "projectName": "InterfaceUnitTests",
+        "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\InterfaceUnitTests\\InterfaceUnitTests.csproj",
+        "packagesPath": "C:\\Users\\cecd304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\InterfaceUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cecd304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\Section6Interfaces.csproj": {
+                "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\Section6Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\Section6Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\Section6Interfaces.csproj",
+        "projectName": "Section6Interfaces",
+        "projectPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\Section6Interfaces.csproj",
+        "packagesPath": "C:\\Users\\cecd304\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cecd304\\me\\code\\udemy\\mosh\\c-sharp-i\\Section6Interfaces\\Section6Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cecd304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
