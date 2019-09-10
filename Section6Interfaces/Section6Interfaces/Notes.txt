@@ -16,3 +16,11 @@ INTERFACES AND TESTABILITY
 - AN INTERFINES DEFINES/MOULDS A THE MODEL/CLASS.
 - It tells you the class should contain from a purely abstract level.
 	- No implementation, no logic.
+
+
+
+
+INTERFACES AND EXTENSIBILITY
+============================
+
+- 

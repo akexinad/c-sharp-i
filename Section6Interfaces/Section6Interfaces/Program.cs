@@ -1,4 +1,5 @@
-﻿using Section6Interfaces;
+﻿using Extensibility;
+using Section6Interfaces;
 using System;
 using Testability;
 
@@ -17,6 +18,13 @@ namespace Section6Interfaces
             };
 
             //orderProcessor.Process(order);
+
+            Console.Clear();
+
+            // In the program, we pass in a concrete implementation of the ILogger interface
+            var migrator = new DbMigrator(new ConsoleLogger());
+
+            migrator.Migrate();
         }
     }
 }
