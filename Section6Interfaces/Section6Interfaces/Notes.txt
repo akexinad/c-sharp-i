@@ -13,7 +13,7 @@ INTERFACES
 INTERFACES AND TESTABILITY
 ==========================
 
-- AN INTERFINES DEFINES/MOULDS A THE MODEL/CLASS.
+- AN INTERFACE DEFINES/MOULDS A THE MODEL/CLASS.
 - It tells you the class should contain from a purely abstract level.
 	- No implementation, no logic.
 
@@ -23,4 +23,26 @@ INTERFACES AND TESTABILITY
 INTERFACES AND EXTENSIBILITY
 ============================
 
-- 
+- The ideal when desiging our software is to be able to change its behaviour without
+	changing its code, and this can be done with interfaces and following the principles
+	of extensibility.
+- In addition, another principle that you should be aware of is OCP: OPEN CLOSE PRINCIPLES
+
+OPEN-CLOSE PRINCIPLES
+
+- Software entities should be open for extension but closed to modification.
+
+
+
+
+INTERFACES ARE NOT FOR MULTIPLE INHERITANCE
+===========================================
+
+- One of the most common misconceptions of interfaces is that they are used to implement multiple inheritance.
+- INTERFACES HAVE NOTHING TO DO WITH INHERITANCE.
+- Inheritance is about inheriting a certain behaviour from a parent class.
+- Implementation of an interface is about shaping behaviour without having to restructure too much code.
+- When you implement an interface, you have to implement the declared methods as well as write their logic, YOU ARE NOT INHERITING ANY CODE. THERE IS NO REUSABILITY.
+
+- INTERFACES ARE USED FOR BUILDING LOOSELY COUPLED, EXTENSIBLE AND TESTABLE APPLICATIONS.
+- IN ADDITION, INTERFACES PROVIDE POLYMORPHIC BEHAVIOUR.
