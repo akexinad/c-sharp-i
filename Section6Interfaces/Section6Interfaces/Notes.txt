@@ -13,8 +13,8 @@ INTERFACES
 INTERFACES AND TESTABILITY
 ==========================
 
-- AN INTERFACE DEFINES/MOULDS A THE MODEL/CLASS.
-- It tells you the class should contain from a purely abstract level.
+- AN INTERFACE DEFINES/MOULDS THE MODEL/CLASS.
+- It tells you what the class should contain from a purely abstract level.
 	- No implementation, no logic.
 
 
@@ -46,3 +46,16 @@ INTERFACES ARE NOT FOR MULTIPLE INHERITANCE
 
 - INTERFACES ARE USED FOR BUILDING LOOSELY COUPLED, EXTENSIBLE AND TESTABLE APPLICATIONS.
 - IN ADDITION, INTERFACES PROVIDE POLYMORPHIC BEHAVIOUR.
+
+
+
+
+INTERFACES AND POLYMORPHIC BEHAVIOUR
+====================================
+
+- INTERFACES PROVIDE POLYMORPHIC BEHAVIOUR.
+- Remember OCP
+	- Open Closed Principle
+	- OPEN for EXTENSION.
+	- CLOSED for MODIFICATION.
+

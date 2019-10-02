@@ -1,4 +1,5 @@
 ﻿using Extensibility;
+using Polymorphism;
 using Section6Interfaces;
 using System;
 using Testability;
@@ -19,7 +20,6 @@ namespace Section6Interfaces
 
             //orderProcessor.Process(order);
 
-            Console.Clear();
 
             // In the program, we pass in a concrete implementation of the ILogger interface
             var migrator = new DbMigrator(new ConsoleLogger());
@@ -28,6 +28,15 @@ namespace Section6Interfaces
             var dbMigrator = new DbMigrator(new FileLogger("C:/Users/cecd304/me/info.txt"));
 
             dbMigrator.Migrate();
+
+            Console.Clear();
+
+            var encoder = new VideoEncoder();
+
+            encoder.RegisterNotificationChannel(new MailNotificationChannel());
+            encoder.RegisterNotificationChannel(new SmsNotificationChannel());
+
+            encoder.Encode(new Video());
         }
     }
 }
